@@ -1,7 +1,0 @@
-DEPENDENCIES
-  ca_certificates
-    path: .
-    metadata: true
-
-GRAPH
-  ca_certificates (0.1.0)
